@@ -1,14 +1,14 @@
 
 # Object Oriented Programming Notes -: 
 
-These questions will familiarize you with the most important object-oriented programming concepts and help you ace your job interviews
 
 
 ---
 
 ###
 
-#### 👇👇👇👇👇
+#### 
+These questions will familiarize you with the most important object-oriented programming concepts and help you ace your job interviews👇👇👇👇👇
 
 <div align="left">
   <a href="https://www.linkedin.com/in/avijit-ghosh-avijit2001ghosh">
