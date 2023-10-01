@@ -1,7 +1,7 @@
 
 # Object Oriented Programming Notes -: 
 
-
+These questions will familiarize you with the most important object-oriented programming concepts and help you ace your job interviews
 
 
 ---
