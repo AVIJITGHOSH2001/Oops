@@ -8,7 +8,7 @@
 
 ###
 
-#### Join us for all the latest offcampus job updates, webinar, hackathons, resume review and a lot more :heart::heart:
+#### 👇👇👇👇👇
 
 <div align="left">
   <a href="https://www.linkedin.com/in/avijit-ghosh-avijit2001ghosh">
